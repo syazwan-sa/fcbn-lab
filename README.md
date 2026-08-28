@@ -104,7 +104,6 @@ Our collaborative approach may draw on:
 -   wildlife and habitat assessment;
 -   laboratory and molecular approaches;
 -   plant biotechnology and microbiological approaches;
--   geospatial and remote-sensing information;
 -   statistical and computational analysis;
 -   modelling and scenario analysis; and
 -   integrated climate--biodiversity indicators and datasets.
