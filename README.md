@@ -79,7 +79,7 @@ ecosystem integrity and forest management.
 ### Integrated Monitoring and Analytics
 
 Integration of field observations, laboratory and molecular approaches,
-ecological indicators, geospatial information, statistical analysis,
+ecological indicators, statistical analysis,
 modelling and data-driven methods to connect climate and biodiversity
 evidence across spatial and temporal scales.
 
@@ -209,8 +209,7 @@ researchers, students, institutions and technical partners.
 `Climate Mitigation` · `Biodiversity` · `Forest Ecology` ·
 `Ecosystem Integrity` · `Forest Management` · `Land-Use Change` ·
 `Wildlife Management` · `Ecological Monitoring` · `Molecular Biology` ·
-`Plant Biotechnology` · `Microbiology` · `Forest Pathology` ·
-`Geospatial Analysis` · `Modelling` · `Data Science`
+`Plant Biotechnology` · `Microbiology` · `Forest Pathology` · `Modelling` · `Data Science`
 
 ## Publications and Projects
 
