@@ -9,13 +9,16 @@ biodiversity science.*
 
 The **Forest Climate--Biodiversity Nexus Laboratory (FCBN Lab)** is a
 **virtual interdisciplinary research laboratory based at the Forest
-Research Institute Malaysia (FRIM), together with research colleagues at the Faculty of Forestry, Universiti Putra Malaysia (UPM)**.
+Research Institute Malaysia (FRIM), together with research colleagues at
+the Faculty of Forestry and Environment, Universiti Putra Malaysia
+(UPM)**.
 
 The virtual laboratory provides a collaborative platform for research at
 the intersection of **forest ecosystems, climate change mitigation,
 greenhouse gas (GHG) inventories and biodiversity**. It brings together
-complementary expertise and research interests to strengthen connections
-between climate and biodiversity science.
+complementary expertise in forest management and ecosystem sciences,
+climate and forestry, biodiversity, wildlife management, plant
+biotechnology, molecular biology, microbiology, and forest pathology.
 
 Our work integrates forest carbon assessment, GHG emissions and
 removals, mitigation analysis, ecological monitoring and biodiversity
@@ -35,16 +38,15 @@ collaborators to work across institutional and disciplinary boundaries
 without being confined to a single physical laboratory.
 
 The laboratory is based at **FRIM** and works together with research
-colleagues at the **Faculty of Forestry, Universiti Putra Malaysia**.
-This collaborative model is intended to connect expertise in forest
-science, GHG inventory and climate mitigation with biodiversity, ecology
-and related analytical approaches.
+colleagues at the **Faculty of Forestry and Environment, UPM**. This
+collaborative model connects expertise in forest science, GHG inventory
+and climate mitigation with biodiversity, biotechnology, ecology and
+related analytical approaches.
 
-The virtual structure also provides a platform for future research
-collaboration, joint scientific activities, student engagement, data
-analysis, methodological development and knowledge exchange with
-researchers working on related forest climate and biodiversity
-questions.
+The virtual structure provides a platform for research collaboration,
+joint scientific activities, student engagement, data analysis,
+methodological development and knowledge exchange among researchers
+working on related forest climate and biodiversity questions.
 
 ## Research Focus
 
@@ -99,7 +101,10 @@ Our collaborative approach may draw on:
 -   field-based forest and ecological observations;
 -   GHG inventory and carbon accounting methods;
 -   biodiversity and ecological assessments;
+-   wildlife and habitat assessment;
 -   laboratory and molecular approaches;
+-   plant biotechnology and microbiological approaches;
+-   geospatial and remote-sensing information;
 -   statistical and computational analysis;
 -   modelling and scenario analysis; and
 -   integrated climate--biodiversity indicators and datasets.
@@ -117,44 +122,98 @@ reporting, while improving understanding of the wider ecological
 benefits and potential trade-offs associated with forest-based climate
 action.
 
+## Lab Members
+
+### Dr Ahmad Syazwan Samsuddin
+
+**Principal Investigator (PI)**\
+**Author name:** Syazwan, S.A.
+
+**Affiliation:** Climate Change and Forestry Branch, Forestry &
+Environment Division, Forest Research Institute Malaysia (FRIM)
+
+**Academic background:** - PhD in Forest Management & Ecosystem
+Sciences, Universiti Putra Malaysia (UPM) - MSc in Forest Biotechnology,
+Universiti Putra Malaysia (UPM) - BSc in Molecular Biology, Universiti
+Teknologi MARA (UiTM)
+
+------------------------------------------------------------------------
+
+### Dr Muhammad Syahmi Hishamuddin
+
+**Lab Member**\
+**Author name:** Hishamuddin, M.S.
+
+**Affiliation:** Department of Forest Science & Biodiversity, Faculty of
+Forestry & Environment, Universiti Putra Malaysia (UPM)
+
+**Academic background:** - PhD in Plant Biotechnology - MSc in Plant
+Biotechnology, Universiti Putra Malaysia (UPM) - BSc in Industrial
+Biotechnology, Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) -
+Diploma in Industrial Biotechnology, Universiti Selangor (UNISEL)
+
+------------------------------------------------------------------------
+
+### Muhamad Amir Hadi
+
+**Lab Member**\
+**Author name:** Hadi, M.A.
+
+**Affiliation:** Climate Change and Forestry Branch, Forestry &
+Environment Division, Forest Research Institute Malaysia (FRIM)
+
+**Academic background:** - MSc in Wildlife Management, Universiti Putra
+Malaysia (UPM) - BSc in Forest Science, Universiti Putra Malaysia (UPM)
+
+------------------------------------------------------------------------
+
+### Azrai Suzazsuzuludin
+
+**Lab Member**\
+**Author name:** Azrai, S.
+
+**Affiliation:** Mycology & Pathology Branch, Forest Biodiversity
+Division, Forest Research Institute Malaysia (FRIM)
+
+**Academic background:** - BSc in Microbiology, Universiti Sains
+Malaysia (USM)
+
 ## Collaboration
 
-FCBN Lab is conceived as a collaborative research space connecting
-researchers with complementary expertise and shared interests in forest
-climate and biodiversity science.
+FCBN Lab is a collaborative research space connecting researchers with
+complementary expertise and shared interests in forest climate and
+biodiversity science.
 
 **Based at:**\
 Forest Research Institute Malaysia (FRIM)
 
 **Research collaboration:**\
-Faculty of Forestry, Universiti Putra Malaysia (UPM)
+Faculty of Forestry and Environment, Universiti Putra Malaysia (UPM)
 
-As the laboratory develops, this virtual model may support wider
-collaboration with researchers, students, institutions and technical
-partners working on related research questions.
+The virtual model supports interdisciplinary collaboration across forest
+climate science, GHG inventories, forest management, biodiversity,
+wildlife, biotechnology, molecular biology, microbiology and forest
+pathology, while providing a foundation for wider collaboration with
+researchers, students, institutions and technical partners.
 
 ## Research Areas
 
 `Forest Carbon` · `LULUCF` · `AFOLU` · `GHG Inventory` ·
 `Climate Mitigation` · `Biodiversity` · `Forest Ecology` ·
-`Ecosystem Integrity` · `Land-Use Change` · `Ecological Monitoring` ·
-`Molecular Ecology` · `Geospatial Analysis` · `Modelling` ·
-`Data Science`
-
-## People
-
-Details of FCBN Lab members, collaborators and their respective research
-interests can be added here.
+`Ecosystem Integrity` · `Forest Management` · `Land-Use Change` ·
+`Wildlife Management` · `Ecological Monitoring` · `Molecular Biology` ·
+`Plant Biotechnology` · `Microbiology` · `Forest Pathology` ·
+`Geospatial Analysis` · `Modelling` · `Data Science`
 
 ## Publications and Projects
 
 Selected publications, ongoing research, datasets, methods and
-collaborative projects can be listed here as the laboratory develops.
+collaborative projects will be added as the laboratory develops.
 
 ## Contact and Research Profiles
 
 Public contact details, institutional profiles, ORCID records,
-publication profiles and other research links can be added here.
+publication profiles and other research links will be added here.
 
 ------------------------------------------------------------------------
 
