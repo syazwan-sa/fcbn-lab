@@ -141,7 +141,7 @@ Teknologi MARA (UiTM)
 
 ### Dr Muhammad Syahmi Hishamuddin
 
-**Lab Member**\
+**Research Collaborator**\
 **Author name:** Hishamuddin, M.S.
 
 **Affiliation:** Department of Forest Science & Biodiversity, Faculty of
@@ -156,7 +156,7 @@ Diploma in Industrial Biotechnology, Universiti Selangor (UNISEL)
 
 ### Muhamad Amir Hadi
 
-**Lab Member**\
+**Researcher**\
 **Author name:** Hadi, M.A.
 
 **Affiliation:** Climate Change and Forestry Branch, Forestry &
@@ -169,7 +169,7 @@ Malaysia (UPM) - BSc in Forest Science, Universiti Putra Malaysia (UPM)
 
 ### Azrai Suzazsuzuludin
 
-**Lab Member**\
+**Researcher**\
 **Author name:** Azrai, S.
 
 **Affiliation:** Mycology & Pathology Branch, Forest Biodiversity
