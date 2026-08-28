@@ -127,7 +127,9 @@ action.
 ### Dr Ahmad Syazwan Samsuddin
 
 **Principal Investigator (PI)**\
-**Author name:** Syazwan, S.A.
+**Author name:** Syazwan, S.A.\
+**Google Scholar:** [View
+profile](https://scholar.google.com/citations?hl=en&user=qHP4SxMAAAAJ)
 
 **Affiliation:** Climate Change and Forestry Branch, Forestry &
 Environment Division, Forest Research Institute Malaysia (FRIM)
@@ -142,7 +144,9 @@ Teknologi MARA (UiTM)
 ### Dr Muhammad Syahmi Hishamuddin
 
 **Research Collaborator**\
-**Author name:** Hishamuddin, M.S.
+**Author name:** Hishamuddin, M.S.\
+**Google Scholar:** [View
+profile](https://scholar.google.com/citations?user=_pTOyAkAAAAJ&hl=en&oi=ao)
 
 **Affiliation:** Department of Forest Science & Biodiversity, Faculty of
 Forestry & Environment, Universiti Putra Malaysia (UPM)
@@ -157,7 +161,9 @@ Diploma in Industrial Biotechnology, Universiti Selangor (UNISEL)
 ### Muhamad Amir Hadi
 
 **Researcher**\
-**Author name:** Hadi, M.A.
+**Author name:** Hadi, M.A.\
+**Google Scholar:** [View
+profile](https://scholar.google.com/citations?user=syu4HhAAAAAJ&hl=en&oi=ao)
 
 **Affiliation:** Climate Change and Forestry Branch, Forestry &
 Environment Division, Forest Research Institute Malaysia (FRIM)
@@ -170,7 +176,9 @@ Malaysia (UPM) - BSc in Forest Science, Universiti Putra Malaysia (UPM)
 ### Azrai Suzazsuzuludin
 
 **Researcher**\
-**Author name:** Azrai, S.
+**Author name:** Azrai, S.\
+**Google Scholar:** [View
+profile](https://scholar.google.com/citations?user=ZznIdE4AAAAJ&hl=en&oi=ao)
 
 **Affiliation:** Mycology & Pathology Branch, Forest Biodiversity
 Division, Forest Research Institute Malaysia (FRIM)
